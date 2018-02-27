@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="inheritance\ChangeRequest.cs" />
+    <Compile Include="inheritance\WorkItem.cs" />
+    <Compile Include="poly\Shape.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
